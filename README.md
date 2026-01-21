@@ -1,11 +1,9 @@
 Hi 👋 My name is Ashfakur Rahaman
 
-I'm a Master's student in Socio-Economic and Institutional Transformation at TU Brandenburg, with a strong interest in data analytics, logistics optimisation, and hospitality operations. Passionate about using Python, Excel, and data tools to solve real-world problems in supply chain, event management, and business insights.
+I'm a Master's student in Socio-Economic and Institutional Transformation at TU Brandenburg, with a strong interest in data analytics, logistics optimisation and hospitality operations. Passionate about using Python, Excel and data tools to solve real-world problems in supply chain, event management and business insights.
 
 Currently:
-- MSc Student | Data-driven analysis & small programming projects
-- Experience in logistics (Amazon, delivery), event service (Prom-Nights), retail & bar
-
+- | Data-driven analysis & small programming projects
 Previously:
 - MSc Data Analytics | Berlin School of Business and Innovation
 - MSc International Supply Chain Management (Foundation) | Rotterdam UAS
