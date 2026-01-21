@@ -20,7 +20,7 @@ At Rupayan Housing Estate Ltd. (Jan 2020 – Oct 2020), I performed market analy
 At Apex Footwear Ltd. (Dec 2017), I collected and analysed process data to identify bottlenecks and propose efficiency improvements through data-based enhancements.
 
 🌍 I'm based in Berlin, Germany  
-👨‍💻 All of my projects are available at [https://github.com/ashfakur-rahaman-himu](https://github.com/ashfakur-rahaman-himu)  
+👨‍💻 All of my projects are available at [https://github.com/ashfakur-rahaman-himu](https://github.com/ashanalytix  
 
 ### Skills:
 - **Data Science & Analytics:** Python (Basic), Pandas, MATLAB (Intermediate), Excel (Advanced: Pivot Tables, Formulas, Automation), Google Sheets (Advanced: Scripts, Automation), Power BI (Intermediate: Data Visualisation, KPI Dashboards), Statistical Analysis, Demand Forecasting
