@@ -2,7 +2,7 @@
 
 ## Junior Data Analyst | MSc Data Analytics (BSBI Berlin) | Logistics & Supply Chain Optimization
 
-I am a Master's student in Socio-Economic Transformation at TU Brandenburg with a passion for data analytics, automation, forecasting, and business intelligence. Focused on using tools like Python, Excel, Power BI, and MATLAB to optimise logistics, inventory and decision-making in high-pressure environments.
+I am a Master's student in Socio-Economic and Institutional Transformation at TU Brandenburg with a passion for data analytics, automation, forecasting, and business intelligence. Focused on using tools like Python, Excel, Power BI, and MATLAB to optimise logistics, inventory and decision-making in high-pressure environments.
 
 ### Currently:
 - Master's Student at TU Brandenburg, Cottbus (Oct 2025 – Present): Strategies for climate change, digitalisation, and structural transformation through socio-economic, tech, economic, and legal sciences.
