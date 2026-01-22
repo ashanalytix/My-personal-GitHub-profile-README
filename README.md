@@ -28,7 +28,7 @@ At Apex Footwear Ltd. (Dec 2017), I collected and analysed process data to ident
 - **Other:** Microsoft/Google/Libre Office (Advanced), Windows/MacOS/Android/iOS (Advanced), Photo/Video Editing (Advanced)
 
 Connect with me:  
-- LinkedIn: [[Your LinkedIn if available](https://www.linkedin.com/in/ashfakur-rahaman-himu]  
+- LinkedIn: https://www.linkedin.com/in/ashfakur-rahaman-himu
 - Email: ash25september@gmail.com  
 
 Check out my projects below! 🚀
