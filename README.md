@@ -1,8 +1,8 @@
 # Hi 👋 My name is Ashfakur Rahaman
 
-## Junior Data Analyst | MSc Data Analytics (BSBI Berlin) | Logistics & Supply Chain Optimization
+## Data & Business Analyst | Excel, SQL, Power BI & Python Expert | MSc Data Analytics | Industrial and Production Engineer | Demand Forecasting & Reporting Automation | Logistics & Supply Chain Optimization |
 
-I am a Master's student in Socio-Economic and Institutional Transformation at TU Brandenburg with a passion for data analytics, automation, forecasting, and business intelligence. Focused on using tools like Python, Excel, Power BI and MATLAB to optimise logistics, inventory and decision-making in high-pressure environments.
+I am a Master's student in Socio-Economic and Institutional Transformation at TU Brandenburg with a passion for data analytics, automation, forecasting, supply chain and business intelligence. Focused on using tools like Python, SQL, Excel, Power BI and MATLAB to optimise logistics, inventory and decision-making in high-pressure environments.
 
 ### Currently:
 - Master's Student at TU Brandenburg, Cottbus (Oct 2025 – Present): Strategies for climate change, digitalisation, and structural transformation through socio-economic, tech, economic, and legal sciences.
