@@ -2,33 +2,30 @@
 
 ## Data & Business Analyst | Excel, SQL, Power BI & Python Expert | MSc Data Analytics | Industrial and Production Engineer | Demand Forecasting & Reporting Automation | Logistics & Supply Chain Optimization |
 
-I am a Master's student in Socio-Economic and Institutional Transformation at TU Brandenburg with a passion for data analytics, automation, forecasting, supply chain and business intelligence. Focused on using tools like Python, SQL, Excel, Power BI and MATLAB to optimise logistics, inventory and decision-making in high-pressure environments.
+I am a solution-oriented Junior Data Analyst with a focus on data-driven decisions. Seeking a position in Berlin or Brandenburg. With my MSc in Data Analytics (BSBI Berlin, 2024) and experience in logistics optimization (e.g., 25% efficiency increase through KPI dashboards at Berlin Last Mile), I bring skills in Excel (Advanced: Pivot Tables, Automation), Power BI (KPI Visualization), Python (Basic: Pandas, Scripting), SQL, and Demand Forecasting.
+
+In my Master's thesis, I developed forecasting models (Exponential Smoothing, Moving Average, ANN) for pharma inventory, achieving MAPE of 9.65-13.18% – integrated with customer survey data for better accuracy. Previous roles at Growthonics (generated 8,900+ B2B leads, 50% time savings through Google Sheets scripts) and Gorillas (95% inventory accuracy) have shown me how data optimizes supply chains.
+
+I am team-oriented, eager to learn, and multilingual (English C1, German A2 – currently B1 course). Hobby: Small programming projects in data analysis. Let's connect for data roles in Germany!
 
 ### Currently:
-- Master's Student at TU Brandenburg, Cottbus (Oct 2025 – Present): Strategies for climate change, digitalisation, and structural transformation through socio-economic, tech, economic, and legal sciences.
-- Building small programming projects in data analysis, automation and simulation for logistics and pharma.
+- MSc Student at TU Brandenburg, Cottbus (Oct 2025 – Present): Strategies for climate change, digitalization, and structural transformation.
 
 ### Previously:
-At Berlin Last Mile GmbH (Jan 2024 – Oct 2025), I developed automated Excel reports and KPI dashboards for logistics data, achieving 25% efficiency gains through data analysis, visualisation and data-driven decisions.
+- Junior Reporting Analyst / Data Analyst, Berlin Last Mile GmbH (Jan 2024 – Oct 2025): Automated Excel reports and KPI dashboards for logistics, 25% efficiency gains.
+- Senior Business Development Analyst, Growthonics (Feb 2019 – Nov 2020): Data analysis of 6,000 companies, generated 8,900+ B2B leads, 50% time savings.
+- Inventory Associate, Gorillas & Picnic (May 2021 – Dec 2022): Inventory audits with 95% accuracy, demand forecasting support.
+- Purchase Officer, Rupayan Housing Estate Ltd. (Jan 2020 – Oct 2020): Market analyses and demand forecasts for purchase optimization.
+- Industrial Attachment, Apex Footwear Ltd. (Dec 2017): Process data analysis for efficiency improvements.
 
-At Growthonics (Feb 2019 – Nov 2020, Remote), I conducted data analysis on over 6,000 companies, generating 8,900+ qualified B2B leads. Automated reporting in Google Sheets (scripts) with 50% time savings and improved email campaign metrics (Open-Rate 36%, Response-Rate 11%). Identified B2B prospects, ran data-driven sales campaigns and created weekly insights/presentations.
-
-At Gorillas & Picnic (May 2021 – Dec 2022), I handled inventory audits with 95%+ accuracy, supported demand forecasting, optimised warehouse placement and quality controls using Excel documentation.
-
-At Rupayan Housing Estate Ltd. (Jan 2020 – Oct 2020), I performed market analyses and demand forecasts for purchase optimisation, supplier monitoring and product data maintenance with a focus on data accuracy.
-
-At Apex Footwear Ltd. (Dec 2017), I collected and analysed process data to identify bottlenecks and propose efficiency improvements through data-based enhancements.
-
-🌍 I'm based in Berlin, Germany  
-👨‍💻 All of my projects are available at [https://github.com/ashanalytix]
+🌍 Based in Berlin, Germany  
+👨‍💻 All projects at https://github.com/ashfakur-rahaman-himu  
+🔗 LinkedIn: https://www.linkedin.com/in/ashfakur-rahaman-himu/  
+📧 Email: ash25september@gmail.com  
 
 ### Skills:
-- **Data Science & Analytics:** Python (Basic), Pandas, MATLAB (Intermediate), Excel (Advanced: Pivot Tables, Formulas, Automation), Google Sheets (Advanced: Scripts, Automation), Power BI (Intermediate: Data Visualisation, KPI Dashboards), Statistical Analysis, Demand Forecasting
-- **Data Engineering & Tools:** SQL (Basic), Reporting Automation, Data Cleaning, Business Intelligence, HTML (Practical)
-- **Other:** Microsoft/Google/Libre Office (Advanced), Windows/MacOS/Android/iOS (Advanced), Photo/Video Editing (Advanced)
-
-Connect with me:  
-- LinkedIn: https://www.linkedin.com/in/ashfakur-rahaman-himu
-- Email: ash25september@gmail.com  
+- Data Science & Analytics: Python (Basic), Pandas, MATLAB (Intermediate), Excel (Advanced: Pivot Tables, Formulas, Automation), Google Sheets (Advanced: Scripts, Automation), Power BI (Intermediate: Data Visualization, KPI Dashboards), Statistical Analysis, Demand Forecasting
+- Data Engineering & Tools: SQL (Basic), Reporting Automation, Data Cleaning, Business Intelligence, HTML (Practical)
+- Other: Microsoft/Google/Libre Office (Advanced), Windows/MacOS/Android/iOS (Advanced), Photo/Video Editing (Advanced)
 
 Check out my projects below! 🚀
